@@ -31,8 +31,6 @@ import leesiongchan.reactnativeescpos.helpers.EscPosHelper;
 import leesiongchan.reactnativeescpos.utils.BitMatrixUtils;
 import static io.github.escposjava.print.Commands.*;
 
-
-
 public class PrinterService {
     public static final int PRINTING_WIDTH_58_MM = 384;
     public static final int PRINTING_WIDTH_76_MM = 450;
